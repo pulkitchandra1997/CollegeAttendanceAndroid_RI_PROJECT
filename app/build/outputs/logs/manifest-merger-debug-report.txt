@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5145132398319bcc734a14c16b956e7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c8124ad6e284bbf2d2a8f03a0ebd439f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\46098793f7d13e91a098322692ed33db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\androidbootstrap-2.3.2.aar\951fc031bf79aacec0a3e26db87aa433\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d958693265ed9f371bd2185f8f214d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\05753f8de31ed774b7fccccbc3a1f4e9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\bc4455d7119b6c42561828e54cd780ae\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\0bc1994fe24f7b3716dbafa98c8da853\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d241d7deafa5050086b4ee725f9340\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\42785dbabd0c1a261a62598e545aac07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2d90a3f7e260183da5d770939a6bf098\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9cd2ada88c61b372d774fe8c2b58b459\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0755f0d8a3047b87f2ebe49a0107b4a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cea7648c04b213949f69fa3d31e67b2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d220162f8fdb79628ac3b2b66ec03ad5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046e554cc248dcd90fdbc7a83cbf527f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a917d278c9d0200ff5427a3ff080f443\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c720bc5c5b7f2a944e1f445e42f99145\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12024882b05d5de57473cb5f2c8f99d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3efccd44a165b9794109e2c11f06b0ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7a1c05e821bcee12e40f347b95ae691\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:4:5-55
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:16:5-18:47
+	tools:ignore
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:17:9-57
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:19:5-21:47
+	tools:ignore
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:20:9-62
+application
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:23:5-65:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\46098793f7d13e91a098322692ed33db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\46098793f7d13e91a098322692ed33db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\05753f8de31ed774b7fccccbc3a1f4e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\05753f8de31ed774b7fccccbc3a1f4e9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:29:9-40
+activity#project.internship.tcs.collegeattendance.StudentRegisterActivity
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:31:13-52
+activity#project.internship.tcs.collegeattendance.Welcome
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:34:9-46:20
+	android:label
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:37:13-45
+	android:windowSoftInputMode
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:39:13-55
+	android:configChanges
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:38:13-71
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:35:13-36
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:44:27-74
+activity#project.internship.tcs.collegeattendance.StudentMainActivity
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:47:9-50:59
+	android:label
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:49:13-47
+	android:theme
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:48:13-48
+activity#project.internship.tcs.collegeattendance.TeacherMainActivity
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:51:9-55:59
+	android:label
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:54:13-47
+	android:exported
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:52:13-48
+activity#project.internship.tcs.collegeattendance.LoginActivity
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:56:9-51
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:56:19-48
+activity#project.internship.tcs.collegeattendance.TeacherRegisterActivity
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:57:19-58
+activity#project.internship.tcs.collegeattendance.Permisssion
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:58:9-49
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:58:19-46
+activity#project.internship.tcs.collegeattendance.TakeAttendance
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:59:9-52
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:59:19-49
+activity#project.internship.tcs.collegeattendance.MarkAttendance
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:60:9-52
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:60:19-49
+activity#project.internship.tcs.collegeattendance.StudentProfilePicUpload
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:61:9-61
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:61:19-58
+activity#project.internship.tcs.collegeattendance.TeacherProfilePicUpload
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:62:9-61
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:62:19-58
+activity#project.internship.tcs.collegeattendance.AddMultipleStudents
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:63:9-57
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:63:19-54
+activity#project.internship.tcs.collegeattendance.UploadFiles
+ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:64:9-58
+	android:name
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml:64:19-46
+uses-sdk
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5145132398319bcc734a14c16b956e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5145132398319bcc734a14c16b956e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c8124ad6e284bbf2d2a8f03a0ebd439f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c8124ad6e284bbf2d2a8f03a0ebd439f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\46098793f7d13e91a098322692ed33db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\46098793f7d13e91a098322692ed33db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\androidbootstrap-2.3.2.aar\951fc031bf79aacec0a3e26db87aa433\AndroidManifest.xml:8:5-10:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\androidbootstrap-2.3.2.aar\951fc031bf79aacec0a3e26db87aa433\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d958693265ed9f371bd2185f8f214d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2d958693265ed9f371bd2185f8f214d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\05753f8de31ed774b7fccccbc3a1f4e9\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\05753f8de31ed774b7fccccbc3a1f4e9\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\bc4455d7119b6c42561828e54cd780ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\bc4455d7119b6c42561828e54cd780ae\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\0bc1994fe24f7b3716dbafa98c8da853\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\0bc1994fe24f7b3716dbafa98c8da853\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d241d7deafa5050086b4ee725f9340\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\47d241d7deafa5050086b4ee725f9340\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\42785dbabd0c1a261a62598e545aac07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\42785dbabd0c1a261a62598e545aac07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2d90a3f7e260183da5d770939a6bf098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2d90a3f7e260183da5d770939a6bf098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9cd2ada88c61b372d774fe8c2b58b459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9cd2ada88c61b372d774fe8c2b58b459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0755f0d8a3047b87f2ebe49a0107b4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0755f0d8a3047b87f2ebe49a0107b4a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cea7648c04b213949f69fa3d31e67b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\cea7648c04b213949f69fa3d31e67b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d220162f8fdb79628ac3b2b66ec03ad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d220162f8fdb79628ac3b2b66ec03ad5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046e554cc248dcd90fdbc7a83cbf527f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\046e554cc248dcd90fdbc7a83cbf527f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a917d278c9d0200ff5427a3ff080f443\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a917d278c9d0200ff5427a3ff080f443\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c720bc5c5b7f2a944e1f445e42f99145\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c720bc5c5b7f2a944e1f445e42f99145\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12024882b05d5de57473cb5f2c8f99d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12024882b05d5de57473cb5f2c8f99d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3efccd44a165b9794109e2c11f06b0ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3efccd44a165b9794109e2c11f06b0ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7a1c05e821bcee12e40f347b95ae691\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\PULKITCHANDRA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c7a1c05e821bcee12e40f347b95ae691\AndroidManifest.xml:20:5-44
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		ADDED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from E:\educational\INTERNSHIP\TCS\CollegeAttendance\app\src\main\AndroidManifest.xml

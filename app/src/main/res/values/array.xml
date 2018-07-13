@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="number">
+    </array>
+    <string-array name="course">
+        <item>B.Tech</item>
+        <item>B.Arch</item>
+        <item>M.B.A</item>
+        <!--<item>B.S.C.</item>
+        <item>B.A.</item>
+        <item>B.B.A.</item>
+        <item>M.Tech.</item>
+        <item>M.Com.</item>
+        <item>M.S.C</item>
+        <item>M.A</item>-->
+    </string-array>
+    <string-array name="year">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="B.Tech">
+        <item name="AE">Aeronautical Engineering</item>
+        <item name="AG">Agricultural Engineering</item>
+        <item name="AI">Applied Electronics and Instrumentation</item>
+        <item name="AU">Automobile Engineering</item>
+        <item name="BC">Bio Chemical Engineering</item>
+        <item name="BM">Bio Medical Engineering</item>
+        <item name="BT">Bio-Technology</item>
+        <item name="CA">Chemical and Alcohol Technology</item>
+        <item name="CE">Civil Engineering</item>
+        <item name="CH">Chemical Engineering</item>
+        <item name="CO">Computer Science</item>
+        <item name="CS">Computer Science and Engineering</item>
+        <item name="CSI">Computer Scienece and Information Technology</item>
+        <item name="EC">Electronics and Communication Engineering</item>
+        <item name="EE">Electrical Engineering</item>
+        <item name="EI">Electronics and Instrumentation Engineering</item>
+        <item name="EL">Electronics Engineering</item>
+        <item name="EN">Electrical and Electronics Engineering</item>
+        <item name="ET">Electronics and Telecomm Engineering</item>
+        <item name="EX">Electronics Instrumentation and Control EX</item>
+        <item name="EV">Environmental Engineering</item>
+        <item name="ECZ">Electronics and Computer Engineering</item>
+        <item name="EZ">Electrical and Computer Engineering</item>
+        <item name="FT">Food Technology </item>
+        <item name="IC">Instrumentation and Control</item>
+        <item name="IN">Instrumentation Engineering</item>
+        <item name="IP">Industrial Production Engg.</item>
+        <item name="IT">Information Technology</item>
+        <item name="LT">Leather Technology</item>
+        <item name="ME">Mechanical Engineering </item>
+        <item name="MF">Manufacturing Technology</item>
+        <item name="MM">Man Made Fiber Technology</item>
+        <item name="MR">Marine Engineering </item>
+        <item name="MST">Material and Metallurgical Engineering</item>
+        <item name="MT">Metallurgical Engineering</item>
+        <item name="MX">Mechanical and Industrial Engineering</item>
+        <item name="OT">Oil Technology</item>
+        <item name="PE">Production Engineering</item>
+        <item name="PI">Production and Industrial Engineering</item>
+        <item name="PL">Plastic Technology</item>
+        <item name="PT">Paint Technology</item>
+        <item name="TC">Textile Chemistry</item>
+        <item name="TT">Textile Technology</item>
+        <item name="TX">Textile Engineering </item>
+    </string-array>
+    <string-array name="B.Arch">
+        <item name="AR">Architecture</item>
+        <item name="BE">Building Engg. and Construction Technology</item>
+        <item name="ID">Interior Design</item>
+        <item name="PA">Planning</item>
+    </string-array>
+    <string-array name="M.B.A">
+        <item name="M1">Master of Business Administration</item>
+        <item name="M2">Master of Business Administration Business Economics</item>
+        <item name="M3">Master of Business Administration Finance and Control</item>
+        <item name="M4">Master of Business Administration Tourism Management</item>
+        <item name="M5">Master of Business Administration International Business</item>
+        <item name="M6">Master of Business Administration Financial Management</item>
+    </string-array>
+</resources>

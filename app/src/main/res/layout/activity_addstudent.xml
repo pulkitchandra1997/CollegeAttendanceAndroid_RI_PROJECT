@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingHorizontal="15dp"
+    android:paddingVertical="15dp">
+
+    <ProgressBar
+        android:foregroundGravity="center"
+        android:id="@+id/progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        android:indeterminateTint="@color/colorPrimary" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/content"
+        android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/openmultipleadd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add MultipleSudents&#10;Load CSV File"            android:layout_gravity="center_horizontal"
+            app:bootstrapBrand="info"
+            app:bootstrapSize="md"
+            app:buttonMode="regular"
+            app:roundedCorners="true"
+            app:showOutline="false" />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:text="Add Single Student"
+        android:textSize="25sp"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingVertical="30dp"
+        android:paddingHorizontal="10dp">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*">
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Roll Number"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/rollno"
+                    android:textSize="15sp"
+                    android:inputType="number"
+                    android:maxLength="10"
+                    android:hint="Enter Roll Number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="First Name"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/firstname"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:hint="Enter First Name"
+                    android:inputType="textPersonName|textCapWords"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Last Name"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/lastname"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:hint="Enter Last Name"
+                    android:inputType="textPersonName|textCapWords"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Mobile Number"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/mobileno"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:hint="Enter Mobile Number"
+                    android:inputType="phone"
+                    android:maxLength="10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Email"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/email"
+                    android:textSize="15sp"
+                    android:hint="Enter Email"
+                    android:textAllCaps="true"
+                    android:inputType="textEmailAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Gender"
+                    android:textSize="15sp"/>
+                <RadioGroup
+                    android:orientation="horizontal"
+                    android:id="@+id/gender">
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Male"
+                        android:id="@+id/male"/>
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Female"
+                        android:id="@+id/female"
+                        />
+                </RadioGroup>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Course"
+                    android:textSize="15sp"/>
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/course"
+                    android:id="@+id/course">
+                </Spinner>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Branch"
+                    android:textSize="15sp"/>
+                <Spinner
+                    android:id="@+id/branch"
+                    android:textSize="15sp"
+                    android:inputType="text"
+                    android:layout_width="match_parent"
+                    android:enabled="false"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Year"
+                    android:textSize="15sp"/>
+                <Spinner
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:id="@+id/year"
+                    android:entries="@array/year">
+                </Spinner>
+            </TableRow>
+
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Section"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/section"
+                    android:textSize="15sp"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:hint="Enter Section"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Father's Name"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/fathername"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:hint="Enter Father's Name|textCapWords"
+                    android:inputType="textPersonName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Address"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/address"
+                    android:textSize="15sp"
+                    android:inputType="text"
+                    android:textAllCaps="true"
+                    android:hint="Enter Address|textCapWords"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="State"
+                    android:textSize="15sp"/>
+                <Spinner
+                    android:id="@+id/state"
+                    android:textSize="15sp"
+                    android:inputType="text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="City"
+                    android:textSize="15sp"/>
+                <Spinner
+                    android:id="@+id/city"
+                    android:textSize="15sp"
+                    android:inputType="text"
+                    android:layout_width="match_parent"
+                    android:enabled="false"
+                    android:layout_height="wrap_content"/>
+            </TableRow>
+            <TableRow
+                android:layout_marginVertical="5dp"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Pincode"
+                    android:textSize="15sp"/>
+                <EditText
+                    android:id="@+id/pincode"
+                    android:textSize="15sp"
+                    android:inputType="number"
+                    android:maxLength="6"
+                    android:textAllCaps="true"
+                    android:hint="Enter Pincode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </TableRow><TableRow
+            android:layout_marginVertical="5dp"
+            android:layout_width="match_parent">
+            <TextView
+                android:text="Date of Birth"
+                android:textSize="15sp"/>
+            <EditText
+                android:id="@+id/dob"
+                android:textSize="15sp"
+                android:inputType="number"
+                android:focusable="false"
+                android:textAllCaps="true"
+                android:hint="DD-MM-YYYY"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </TableRow>
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/addsinglestudent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Submit"
+                app:bootstrapBrand="success"
+                app:bootstrapSize="lg"
+                android:layout_marginTop="50dp"
+                android:layout_gravity="center_horizontal"
+                app:buttonMode="regular"
+                app:roundedCorners="true"
+                app:showOutline="false" />
+
+
+        </TableLayout>
+        </ScrollView>
+    </LinearLayout>
+    </android.support.v7.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

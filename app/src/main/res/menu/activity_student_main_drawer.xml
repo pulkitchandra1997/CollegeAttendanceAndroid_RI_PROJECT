@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_docs"
+            android:icon="@mipmap/viewfile"
+            android:title="View Files" />
+
+
+    </group>
+
+    <item android:title="Extra Details">
+        <menu>
+            <item
+            android:id="@+id/nav_view_profile"
+            android:icon="@mipmap/profile"
+            android:title="View Profile" />
+            <item
+                android:id="@+id/nav_edit_profile"
+                android:icon="@mipmap/editprofile"
+                android:title="Edit Profile" />
+        </menu>
+    </item>
+
+</menu>

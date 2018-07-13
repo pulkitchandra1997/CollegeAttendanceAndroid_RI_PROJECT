@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="project.internship.tcs.collegeattendance"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="27" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
+    -
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="project.internship.tcs.collegeattendance.StudentRegisterActivity"
+            android:label="@string/app_name" />
+        -
+        <activity
+            android:name="project.internship.tcs.collegeattendance.Welcome"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="adjustResize" >
+            -
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="project.internship.tcs.collegeattendance.StudentMainActivity"
+            android:label="College Attendance"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="project.internship.tcs.collegeattendance.TeacherMainActivity"
+            android:exported="true"
+            android:label="College Attendance"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="project.internship.tcs.collegeattendance.LoginActivity" />
+        <activity android:name="project.internship.tcs.collegeattendance.TeacherRegisterActivity" />
+        <activity android:name="project.internship.tcs.collegeattendance.Permisssion" />
+        <activity android:name="project.internship.tcs.collegeattendance.TakeAttendance" />
+        <activity android:name="project.internship.tcs.collegeattendance.MarkAttendance" />
+        <activity android:name="project.internship.tcs.collegeattendance.StudentProfilePicUpload" />
+        <activity android:name="project.internship.tcs.collegeattendance.TeacherProfilePicUpload" />
+        <activity android:name="project.internship.tcs.collegeattendance.AddMultipleStudents" />
+        <activity android:name="project.internship.tcs.collegeattendance.UploadFiles" />
+    </application>
+
+</manifest>
